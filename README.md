@@ -24,17 +24,18 @@ Explore the various directories to find code snippets and examples related to BE
 Example usage or running a specific script
 python examples/bert_example.py
 
-Directory Structure
+### Directory Structure
 /examples: Code snippets and usage examples.
 /utilities: Helper functions and utilities.
 /notebooks: Jupyter notebooks for in-depth exploration.
-Contributing
-We welcome contributions! If you have BERT-related code, examples, or improvements to existing code, please follow our contribution guidelines.
 
-License
+### Contributing
+We welcome contributions! If you have BERT-related code, examples, or improvements to existing code, please do.
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 Special thanks to the Hugging Face Transformers community for their invaluable contributions to the field.
 Happy coding with BERTCrafters!
 
