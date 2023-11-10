@@ -11,6 +11,8 @@ Make sure you have the following dependencies installed:
 
 - Python (>=3.6)
 - [Transformers](https://github.com/huggingface/transformers) library
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) (>=1.0.0,<2.0.0)
+- [numpy](https://numpy.org/install/) (>=1.18.0,<2.0.0)
 
 Install the required Python packages using:
 
