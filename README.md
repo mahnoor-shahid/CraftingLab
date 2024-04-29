@@ -1,7 +1,7 @@
 
-# BERTCraftingLab
+# Your Go-To CraftingLab
 
-Hej BERTCrafters, this can be your go-to repository for all things related to BERT (Bidirectional Encoder Representations from Transformers). This repository is a collection of code snippets, examples, and utilities to help you explore, understand, and implement BERT in your projects.
+Hej Crafters, this can be your go-to repository for all things related to Python, Packages, Frameworks, AI/ML etc. This repository is a collection of code snippets, examples, and utilities to help you explore, understand, and implement different "stuff" in your projects. Feel free to add and collaborate!
 
 ## Getting Started
 
