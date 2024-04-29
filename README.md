@@ -1,7 +1,7 @@
 
 # Your Go-To CraftingLab
 
-Hej Crafters, this can be your go-to repository for all things related to Python, Packages, Frameworks, AI/ML etc. This repository is a collection of code snippets, examples, and utilities to help you explore, understand, and implement different "stuff" in your projects. Feel free to add and collaborate!
+Hej Crafters, this can be your go-to repository for all things related to Python, Packages, Frameworks, AI/ML etc. This repository is a collection of code snippets, examples, and utilities to help you explore, understand, learn and implement different techniques in your projects. Feel free to add and collaborate!
 
 ## Getting Started
 
