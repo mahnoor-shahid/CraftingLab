@@ -32,9 +32,6 @@ python examples/bert_example.py
 /utilities: Helper functions and utilities.
 /notebooks: Jupyter notebooks for in-depth exploration.
 
-### Contributing
-We welcome contributions! If you have BERT-related code, examples, or improvements to existing code, please do.
-
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
