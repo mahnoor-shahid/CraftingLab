@@ -37,8 +37,11 @@ python examples/bert_example.py
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
-Special thanks to the Hugging Face Transformers community for their invaluable contributions to the field.
-Happy coding with BERTCrafters!
+Wanna practice more? Go to https://leetcode.com/
+Looking for an intro course to Python and Machine Learning? Visit https://mlcourse.ai/
+Special thanks to the @HuggingFace community for their invaluable contributions to the field.
 
+
+Note: This repository includes some files such as tutorials and datasets that are not entirely my own creation. They are gathered from various sources and primarily used for my personal learning. I have shared these materials publicly to help others who might find them useful. I have provided credits wherever possible. If you have any concerns regarding the materials, their sources, or credits, please feel free to contact me. Happy to share!
 
 Feel free to adapt and modify the content as needed for your specific project.
